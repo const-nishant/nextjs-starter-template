@@ -45,7 +45,7 @@ A modern, production-ready Next.js starter template with TypeScript, Tailwind CS
 1. **Clone the template**
 
    ```bash
-   git clone https://github.com/your-username/nextjs-starter.git my-app
+   git clone https://github.com/const-nishant/nextjs-starter-template
    cd my-app
    ```
 
